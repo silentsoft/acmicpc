@@ -11,6 +11,10 @@
   <artifactId>acmicpc-kit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+    <module>problems/1000</module>
+    <module>problems/1001</module>
+  </modules>
   <properties>
     <template>java</template>
   </properties>
