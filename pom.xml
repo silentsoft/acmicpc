@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.silentsoft</groupId>
     <artifactId>acmicpc-kit-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
   </parent>
   <groupId>org.silentsoft</groupId>
   <artifactId>acmicpc-kit</artifactId>
@@ -16,6 +16,7 @@
     <module>problems/1001</module>
   </modules>
   <properties>
+    <!--<site>leetcode.com</site>-->
     <template>java</template>
   </properties>
 </project>
