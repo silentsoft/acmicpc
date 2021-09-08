@@ -18,6 +18,7 @@
     <module>problems/leetcode.com/longest-palindromic-substring</module>
     <module>problems/leetcode.com/longest-substring-without-repeating-characters</module>
     <module>problems/leetcode.com/median-of-two-sorted-arrays</module>
+    <module>problems/leetcode.com/reverse-integer</module>
     <module>problems/leetcode.com/two-sum</module>
   </modules>
   <properties>
